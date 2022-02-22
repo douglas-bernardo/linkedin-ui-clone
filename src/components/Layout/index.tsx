@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import AdBanner from '../AdBanner';
+
 import DesktopHeader from '../DesktopHeader';
 import LeftColumn from '../LeftColumn';
 import MiddleColumn from '../MiddleColumn';
